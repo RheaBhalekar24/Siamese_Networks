@@ -39,5 +39,6 @@ The model will then be trained over 5 epochs. You'll see the training loss decre
 <img width="556" height="413" alt="image" src="https://github.com/user-attachments/assets/3719313c-5047-4d82-8334-61e42f5ec6e3" />
 
 **Prediction**
+
 <img width="857" height="971" alt="image" src="https://github.com/user-attachments/assets/994d6ec1-d38f-45ea-b36d-14e1099d1fe5" />
 
