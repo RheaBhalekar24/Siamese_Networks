@@ -1,5 +1,6 @@
 **Siamese Network README**
 This is a README file for the Siamese_Network.ipynb notebook.
+----------------------------------------------------------------
 
 **Project Overview**
 
