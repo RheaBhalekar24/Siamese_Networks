@@ -37,3 +37,7 @@ The model will then be trained over 5 epochs. You'll see the training loss decre
 **Review Outputs**: After training, the notebook will present a plot of the loss history  to show how the model's performance improved during training. It will also display several pairs of images from the test set, showing the model's ability to measure their similarity by providing a numerical similarity score for each pair. . A high similarity score indicates the model believes the images are similar, while a low score suggests they are different.
 
 <img width="556" height="413" alt="image" src="https://github.com/user-attachments/assets/3719313c-5047-4d82-8334-61e42f5ec6e3" />
+
+**Prediction**
+<img width="857" height="971" alt="image" src="https://github.com/user-attachments/assets/994d6ec1-d38f-45ea-b36d-14e1099d1fe5" />
+
